@@ -1,0 +1,26 @@
+.login div.input {
+    width: 200px;
+    line-height: 2em;
+    border-bottom: solid brown 2px;
+    margin-bottom: 1em;
+    padding: 0 1em;
+    font-size: 1.5em;
+}
+
+.login div.button {
+    font-size: 1.5em;
+    margin: auto;
+    width: 3em;
+    display: block;
+    padding: 4px 1.5em;
+    align-content: center;
+    cursor: pointer;
+    border: solid #eaa 2px;
+    border-radius: 2px;
+    color: #eaa;
+}
+
+.login div.button:hover {
+    border-color: brown;
+    color: brown;
+}
